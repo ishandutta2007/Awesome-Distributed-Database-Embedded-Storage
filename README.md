@@ -80,7 +80,7 @@ The table below lists the prominent managed and serverless database platforms, s
 
 ## 💻 Open-Source Storage Engines & Distributed Databases
 
-Below is an expanded catalogue of open-source projects, storage kernels, distributed systems, and embedded engines. Each repository displays a social star badge linking directly to its GitHub Stargazers page, sorted strictly by **GitHub Star Count (descending)**.
+Below is an expanded catalogue of open-source projects, storage kernels, distributed systems, and embedded engines. Each repository displays a social Stars_Badge linking directly to its GitHub Stargazers page, sorted strictly by **GitHub Stars_Count (descending)**.
 
 ### 🏆 Tier 1: Ecosystem Titans (50K+ Stars)
 
@@ -184,7 +184,7 @@ Contributions are warmly welcomed! Help keep this ecosystem guide comprehensive,
 
 1. 🍴 **Fork the repository** on GitHub.
 2. 🌿 **Create a new branch**: `git checkout -b feature/add-new-storage-engine`.
-3. 📝 **Add or update entries**: Ensure factual descriptions, verified links, specific starting prices, accurate free tier limits, and valid GitHub star badges.
+3. 📝 **Add or update entries**: Ensure factual descriptions, verified links, specific starting prices, accurate free tier limits, and valid GitHub Stars_Badges.
 4. 📬 **Submit a Pull Request** with a concise summary of the changes.
 
 Please browse [Awesome-Awesome-Awesome](https://github.com/ishandutta2007/Awesome-Awesome-Awesome) for more curated lists!
